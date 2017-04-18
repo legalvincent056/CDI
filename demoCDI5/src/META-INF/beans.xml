@@ -1,0 +1,10 @@
+<beans>
+	<interceptors>
+		<class> interceptor.Timer</class>
+		<class> interceptor.Auditor</class>
+		<class> interceptor.Loggin</class>
+		
+	
+	</interceptors>
+
+</beans>

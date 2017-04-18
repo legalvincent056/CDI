@@ -1,0 +1,8 @@
+<beans>
+	<interceptors>
+		<class> interceptor.Auditor</class>
+		<class> interceptor.Loggin</class>
+	
+	</interceptors>
+
+</beans>
